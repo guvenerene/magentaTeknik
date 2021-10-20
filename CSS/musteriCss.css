@@ -1,0 +1,36 @@
+﻿body {
+}
+.MusteriEkleTablo{
+    width:700px;
+    margin-top:0%;
+    margin-bottom:20%;
+    margin-left:10%;
+    height: 423px;
+}
+.MusteriEkleTD {
+    width: 122px;
+}
+.MusteriEkleTabloKolonIki 
+{
+    width: 243px;
+}
+.MusteriEkleButon 
+{
+    margin-left: 300px;
+}
+.ServisKayitDoldur{
+    width:700px;
+    margin-top:0%;
+    margin-bottom:6%;
+    margin-left:10%;
+}
+.ekBilgi{
+    width:286px;
+    text-align:center;
+    float:left;
+}
+#yedekParcaEkleUrunGiris{
+    width: 650px;
+     margin-left:auto;
+     margin-right:auto;
+}

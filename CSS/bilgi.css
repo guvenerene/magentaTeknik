@@ -1,0 +1,29 @@
+﻿body {
+}
+.bilgiKutu{
+    width:900px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:50px;
+    margin-top: 0px;
+    border-style:outset;
+}
+.bilgiBaslik{
+    width:700px;
+    height:30px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    border-bottom-style: outset;
+    border-bottom-color: inherit;
+    border-bottom-width: 1px;
+    margin-top: 9px;
+    margin-bottom: 7px;
+}
+.bilgi{
+    width:297px;
+    height:20px;
+    float:left;
+    text-align:center;
+    margin-top: 0px;
+}
